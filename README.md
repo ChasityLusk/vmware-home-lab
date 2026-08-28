@@ -1,4 +1,4 @@
-# Enterprise Virtual Home Lab (VMware Workstation Pro)
+# Virtual Home Lab - SOHO (VMware Workstation Pro)
 
 Virtual home lab built on VMware Workstation Pro featuring Active Directory, DNS, DHCP, pfSense firewalling, multi-VLAN segmentation, and Veeam backup automation.
 
