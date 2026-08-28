@@ -6,7 +6,7 @@ Virtual home lab built on VMware Workstation Pro featuring Active Directory, DNS
 
 ## Project Status: In Progress
   - [X] VMware ESXi Installation & Base Setup
-  - [] **Current Focus**pfsense Firewall & VLAN Configuration
+  - [] **Current Focus** pfsense Firewall & VLAN Configuration
   - [] Active Directory, DNS, and DHCP Server Deployment
   - [] **Current Focus** Joining Windows Client VM to Domain (domain name goes here 'domain.local')
   - [] Veam Backup & Recovery Integration
