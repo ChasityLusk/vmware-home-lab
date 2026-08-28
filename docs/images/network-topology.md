@@ -3,4 +3,4 @@
 
 ---
 
-## Download images of devices (routers, switches, firewalls) ##
+## Download images of devices (routers, switches, firewalls)
